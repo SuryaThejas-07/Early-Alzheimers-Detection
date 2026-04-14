@@ -62,6 +62,32 @@ NeuroScan MRI harnesses cutting-edge quantum attention mechanisms and advanced P
   - Class-weighted loss for imbalanced data handling
   - Data augmentation pipelines
 
+## 🎨 Dashboard & Visualizations
+
+### Dashboard Screenshots
+![Dashboard Main Interface](images/dashboard_main.png)
+*Main NeuroScan Dashboard - Patient information entry and MRI upload interface*
+
+![Dashboard Results](images/dashboard_results.png)
+*Prediction Results - Classification outcome with confidence scores and risk gauge visualization*
+
+![Dashboard Analytics](images/dashboard_analytics.png)
+*Advanced Analytics - Detailed metrics, confusion matrices, and prediction history*
+
+## 📊 Key Visualizations
+
+### Plot 1: Confusion Matrix
+![Confusion Matrix](plots/confusion_matrix.png)
+*Model performance across all 4 Alzheimer's severity classes showing true vs predicted classifications*
+
+### Plot 2: ROC Curves
+![ROC Curves](plots/roc_curves.png)
+*Receiver Operating Characteristic curves for multi-class classification demonstrating model discrimination ability*
+
+### Plot 3: Training Metrics
+![Training Metrics](plots/training_metrics.png)
+*Loss and Accuracy curves across training and validation sets showing model convergence and performance evolution*
+
 ## 📁 Project Structure
 
 ```

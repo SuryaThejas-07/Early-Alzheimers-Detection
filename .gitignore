@@ -1,0 +1,150 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Virtual environments
+.venv
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+*.swp
+*.swo
+*~
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Project-specific: Large model files
+saved_models/*.pth
+saved_models/*.pt
+!saved_models/mri_metadata.json
+
+# Project-specific: Large datasets
+MRI/
+!MRI/.placeholder
+
+# Project-specific: Generated outputs (keep structure)
+plots/
+!plots/.placeholder
+reports/*.csv
+reports/*.json
+!reports/.gitkeep
+
+# Project-specific: Temporary files
+*.tmp
+*.bak
+*.log
+*.pid
+
+# Temporary Jupyter outputs
+*.out
+
+# OS-specific
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.vscode/settings.json
+.vscode/extensions.json
+.idea/
+IntelliJ_IDEA_license.txt
+
+# Python
+.Python
+numpy/
+scipy/
+pandas/
+sklearn/
+torch/
+torchvision/
+pillow/
+
+# Package managers
+requirements.txt.bak
+poetry.lock
+Pipfile.lock
+
+# Documentation build files
+docs/_build/
+site/
+
+# Gradio temporary files
+gradio_cached_examples/
+flagged/
+
+# GradCAM outputs (intermediate)
+gradcam_*.png
+
+# Miscellaneous
+.~lock*
+*.swp
+*.swo
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/

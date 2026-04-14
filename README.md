@@ -64,29 +64,52 @@ NeuroScan MRI harnesses cutting-edge quantum attention mechanisms and advanced P
 
 ## 🎨 Dashboard & Visualizations
 
-### Dashboard Screenshots
-![Dashboard Main Interface](images/dashboard_main.png)
-*Main NeuroScan Dashboard - Patient information entry and MRI upload interface*
+### 🧠 NeuroScan Dashboard Results
 
-![Dashboard Results](images/dashboard_results.png)
-*Prediction Results - Classification outcome with confidence scores and risk gauge visualization*
+#### 🔹 1. Main Interface
+![Main Interface](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/1.png)
 
-![Dashboard Analytics](images/dashboard_analytics.png)
-*Advanced Analytics - Detailed metrics, confusion matrices, and prediction history*
+---
 
-## 📊 Key Visualizations
+#### 🔹 2. Risk Prediction Output
+![Risk Output](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/2.png)
 
-### Plot 1: Confusion Matrix
-![Confusion Matrix](plots/confusion_matrix.png)
-*Model performance across all 4 Alzheimer's severity classes showing true vs predicted classifications*
+---
 
-### Plot 2: ROC Curves
-![ROC Curves](plots/roc_curves.png)
-*Receiver Operating Characteristic curves for multi-class classification demonstrating model discrimination ability*
+#### 🔹 3. Detailed Analytics Panel
+![Analytics](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/3.png)
 
-### Plot 3: Training Metrics
-![Training Metrics](plots/training_metrics.png)
-*Loss and Accuracy curves across training and validation sets showing model convergence and performance evolution*
+---
+
+#### 🔹 4. JSON Report Output
+![JSON Report](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/4.png)
+
+---
+
+#### 🔹 5. Generated Clinical Report
+![Clinical Report](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/5.png)
+
+---
+
+## 📊 Model Performance & Training Graphs
+
+#### 🔹 ResNet50 Metrics Radar
+![ResNet50 Metrics](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/ResNet50.png)
+
+---
+
+#### 🔹 Quantum Attention Metrics Radar
+![Quantum Attention](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/Quantum%20Attention.png)
+
+---
+
+#### 🔹 ResNet50 Training Curves
+![ResNet50 Training](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/ResNet50%20accuracy.png)
+
+---
+
+#### 🔹 Quantum Attention Training Curves
+![Quantum ResNet](https://raw.githubusercontent.com/SuryaThejas-07/Early-Alzheimers-Detection/935b899f4279774b87bce2ce5f6de8f1d210a2b7/Alzheimers/Quantum%20ResNet.png)
 
 ## 📁 Project Structure
 

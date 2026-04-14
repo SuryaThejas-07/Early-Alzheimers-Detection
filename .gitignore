@@ -94,6 +94,8 @@ reports/*.csv
 reports/*.json
 !reports/.gitkeep
 
+reports/
+
 # Project-specific: Temporary files
 *.tmp
 *.bak
